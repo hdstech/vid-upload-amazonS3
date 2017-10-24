@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="registration-login-spring-hsql/src/main/java"/>
+	<classpathentry kind="lib" path="jaad-0.8.5.jar"/>
+	<classpathentry kind="output" path="registration-login-spring-hsql/target/classes"/>
+</classpath>
